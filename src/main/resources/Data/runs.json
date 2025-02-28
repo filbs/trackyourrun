@@ -1,0 +1,84 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "First Run",
+      "startedOn": "2025-01-17T14:48:50.701975",
+      "finishedOn": "2025-01-17T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Off Work Run",
+      "startedOn": "2025-01-18T14:48:50.701975",
+      "finishedOn": "2025-01-18T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Noon Run",
+      "startedOn": "2025-01-19T14:48:50.701975",
+      "finishedOn": "2025-01-19T15:49:50.701975",
+      "miles": 5,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 4,
+      "title": "Stress Run",
+      "startedOn": "2025-01-23T14:48:50.701975",
+      "finishedOn": "2025-01-23T15:49:50.701975",
+      "miles": 6,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 5,
+      "title": "Noon Run",
+      "startedOn": "2025-01-25T14:48:50.701975",
+      "finishedOn": "2025-01-25T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 6,
+      "title": "Fun Run",
+      "startedOn": "2025-01-27T14:48:50.701975",
+      "finishedOn": "2025-01-27T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 7,
+      "title": "Another Noon Run",
+      "startedOn": "2025-01-28T14:48:50.701975",
+      "finishedOn": "2025-01-28T15:49:50.701975",
+      "miles": 6,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 8,
+      "title": "Vibing Run",
+      "startedOn": "2025-01-29T14:48:50.701975",
+      "finishedOn": "2025-01-29T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 9,
+      "title": "Holiday Run",
+      "startedOn": "2025-02-01T14:48:50.701975",
+      "finishedOn": "2025-02-01T15:49:50.701975",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 10,
+      "title": "Vibing Run",
+      "startedOn": "2025-02-03T14:48:50.701975",
+      "finishedOn": "2025-02-03T15:49:50.701975",
+      "miles": 5,
+      "location": "OUTDOOR"
+    }
+  ]
+}
